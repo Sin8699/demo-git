@@ -1,0 +1,3 @@
+var Mouse = {
+name : 'psdfk'
+}
